@@ -24,9 +24,9 @@ Follow these steps to set up the project locally:
    git clone https://github.com/yourusername/healthy-foods-api.git
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the following directory:
    ```bash
-   cd healthy-foods-api/dataAPI
+   cd healthy-foods-api
    ```
 
 3. Create a virtual environment:
@@ -49,7 +49,10 @@ Follow these steps to set up the project locally:
    pip install -r requirements.txt
 
    ```
-
+6. Navigate to the main project directory
+```bash 
+cd dataAPI
+```
 6. Run migrations:
    ```bash
    python manage.py migrate
