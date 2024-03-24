@@ -14,7 +14,7 @@ This project creates a Django API that can be used for accessing information abo
 Follow these steps to set up the project locally:
 
 ### Requirements
-- Python 3.x
+- Python 3.10.x
 - Django
 - Django REST framework
 
@@ -53,22 +53,22 @@ Follow these steps to set up the project locally:
 ```bash 
 cd dataAPI
 ```
-6. Run migrations:
+7. Run migrations:
    ```bash
    python manage.py migrate
    ```
 
-7. Create a superuser (admin):
+8. Create a superuser (admin):
    ```bash
    python manage.py createsuperuser
    ```
 
-8. Start the development server:
+9. Start the development server:
    ```bash
    python manage.py runserver
    ```
 
-9. The API will be available at `http://localhost:8000/`
+10. The API will be available at `http://localhost:8000/foods`
 
 ## Usage
 - **Admin Interface**: Visit `http://localhost:8000/admin/` to access the admin interface. Log in with the superuser credentials created earlier.
