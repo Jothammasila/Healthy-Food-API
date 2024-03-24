@@ -99,7 +99,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://ww
 ## Acknowledgements
 - This project was inspired by the need for a simple and accessible way to access information about healthy foods.
 - We thank the Django and Django REST framework communities for their excellent tools and documentation.
-
----
-
-Feel free to adjust this README according to your project's specific details, such as API endpoints, authentication methods, and additional features. A good README serves as a comprehensive guide for users and developers to understand, install, and contribute to your project.
