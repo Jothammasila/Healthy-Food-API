@@ -26,7 +26,7 @@ Follow these steps to set up the project locally:
 
 2. Navigate to the project directory:
    ```bash
-   cd healthy-foods-api
+   cd healthy-foods-api/dataAPI
    ```
 
 3. Create a virtual environment:
@@ -47,6 +47,7 @@ Follow these steps to set up the project locally:
 5. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
    ```
 
 6. Run migrations:
