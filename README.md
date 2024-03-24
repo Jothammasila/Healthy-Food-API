@@ -68,7 +68,7 @@ cd dataAPI
    python manage.py runserver
    ```
 
-10. The API will be available at `http://localhost:8000/foods`
+10. The API will be available at `http://localhost:8000/foods/`
 
 ## Usage
 - **Admin Interface**: Visit `http://localhost:8000/admin/` to access the admin interface. Log in with the superuser credentials created earlier.
